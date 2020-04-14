@@ -176,6 +176,12 @@
 				border-left: 4px solid #ffb900;
 			}
 		}
+
+		.row-actions {
+			.unapprove {
+				display: none;
+			}
+		}
 	}
 }
 
